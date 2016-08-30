@@ -135,7 +135,7 @@ body {
   vertical-align: top;
 }
 .all-middle .all-middle-top .all-middle-ttop .all-middle-ttright .all-middle-ttrtime .all-middle-tbottom .all-middle-tbleft {
-  max-width: 240px;
+  max-width: 90px;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
