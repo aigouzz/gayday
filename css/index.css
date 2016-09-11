@@ -40,6 +40,7 @@ body {
   text-indent: 62px;
   font-size: 12px;
   line-height: 60px;
+  white-space: nowrap;
 }
 .all-top .all-top-right {
   float: right;
@@ -360,18 +361,13 @@ body {
   left: 76px;
   background: #ffffff;
 }
-.all-journey .all-journey-1 .all-journey-img i {
+.all-journey .all-journey-1 .all-journey-img img {
   display: block;
-  width: 32px;
-  height: 30px;
+  width: 38px;
+  height: 38px;
   position: absolute;
-  top: 15px;
-  left: 3px;
-  background: url("../images/all-bottom-1.png") no-repeat;
-  background-size: 100% 100%;
-  -moz-background-size: 100% 100%;
-  -o-background-size: 100% 100%;
-  -webkit-background-size: 100% 100%;
+  top: 13px;
+  left: 0;
 }
 .all-journey .all-journey-1 .all-journey-right {
   width: 200px;
